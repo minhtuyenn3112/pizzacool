@@ -13,3 +13,5 @@ Tiếp theo gõ lệnh git clone "cái link mà bạn đã sao chép trong githu
 Vào terminal gõ cd backend nhập lệnh "npm install" sau đó gõ lệnh "npm run dev" để chạy backend
 
 Vào terminal gõ cd frontend nhập lệnh "Remove-Item package-lock.json -Force", "npm install", chạy "npm run dev" để chạy web
+
+Sửa các file .env trong các thư mục backend và frontend của bạn sao cho đúng với máy của bạn
